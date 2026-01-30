@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Gotham';
+    src: local('Gotham Book Italic'), local('Gotham-Book-Italic'),
+        url('Gotham-BookItalic.woff2') format('woff2'),
+        url('Gotham-BookItalic.woff') format('woff'),
+        url('Gotham-BookItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+  }
